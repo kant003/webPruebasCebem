@@ -34,3 +34,11 @@ git push -u origin master
 ```
 
 
+## muestra las ramas de repositorio
+git branch
+
+
+
+
+rmdir /s .git
+dir /a
